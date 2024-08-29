@@ -4,6 +4,8 @@ print("I'm Refilwe Kgwadi")
 
 print(17,"yrs of age")
 
+print("Love playing sporrts")
+
 print("Welcome to Python")
 
 print("Keywords in Python are....")
